@@ -1,1 +1,1 @@
-# react-big-projects
+React big scale projects
